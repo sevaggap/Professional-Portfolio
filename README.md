@@ -30,4 +30,4 @@ limitations under the License.
 ## GitHub and Link to Deployed Application
 Github: sevaggap
 <br>
-Portfolio: https://sevaggap.github.io/Professional-Portfolio/
+Application: https://sevaggap.github.io/UofT-SCS-Coding-Bootcamp-Homework-2-Professional-Portfolio/
